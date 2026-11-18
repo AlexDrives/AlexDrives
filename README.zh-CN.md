@@ -8,13 +8,8 @@
 
 <p align="center">
   <a href="https://portfolio-rouge-three-eznvbawdug.vercel.app/"><img src="https://img.shields.io/badge/个人主页-junhao.liu-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="个人主页" /></a>
-  <a href="https://portfolio-rouge-three-eznvbawdug.vercel.app/Junhao_Liu_CV_ZH.pdf"><img src="https://img.shields.io/badge/中文简历-PDF-333333?style=for-the-badge&logo=readthedocs&logoColor=white" alt="中文简历 PDF" /></a>
-  <a href="https://portfolio-rouge-three-eznvbawdug.vercel.app/#contact"><img src="https://img.shields.io/badge/邮箱导航-分场景联络-1F2937?style=for-the-badge&logo=gmail&logoColor=white" alt="邮箱导航" /></a>
-</p>
-<p align="center">
-  <a href="mailto:whichAlex@sjtu.edu.cn"><code>学术 · whichAlex@sjtu.edu.cn</code></a> ·
-  <a href="mailto:junhao.liu@cn.abb.com"><code>ABB 研发 · junhao.liu@cn.abb.com</code></a> ·
-  <a href="mailto:alex20160117@gmail.com"><code>个人长期 · alex20160117@gmail.com</code></a>
+  <a href="mailto:whichAlex@sjtu.edu.cn"><img src="https://img.shields.io/badge/邮箱-whichAlex%40sjtu.edu.cn-2B2B2B?style=for-the-badge&logo=gmail&logoColor=white" alt="邮箱" /></a>
+  <a href="https://portfolio-rouge-three-eznvbawdug.vercel.app/Junhao_Liu_CV_ZH.pdf"><img src="https://img.shields.io/badge/中文简历-PDF-444444?style=for-the-badge&logo=readthedocs&logoColor=white" alt="中文简历 PDF" /></a>
 </p>
 
 ---
@@ -93,13 +88,3 @@
 ## 🚗 为什么叫 `AlexDrives` · 科幻与不完全信息博弈
 
 小时候总守着街角红色报刊亭买汽车杂志、背各家发动机与变速箱参数；那份对机械与驾驶的着迷，后来一路从汽车与自动驾驶把我带进了具身机器人。实验室之外，偏爱菲利普·迪克与经典科幻电影（《银翼杀手》《2001 太空漫游》），以及一切关于试错与不完全信息决策的游戏（德州扑克 CFR Solver、魂系世界、《文明》）。
-
----
-
-## 📫 联络方式与邮箱导航
-
-| 联络场景 | 邮箱地址 | 推荐使用说明 | 主页直达路由 |
-| --- | --- | --- | --- |
-| **学术与深造主邮箱** *(上海交大)* | [`whichAlex@sjtu.edu.cn`](mailto:whichAlex@sjtu.edu.cn) | **2027 秋季博士（PhD）/ 研究生深造联系**、导师学术交流与论文探讨（首选） | [`#contact/academic ↗`](https://portfolio-rouge-three-eznvbawdug.vercel.app/#contact/academic) |
-| **企业研发工作邮箱** *(ABB Robotics)* | [`junhao.liu@cn.abb.com`](mailto:junhao.liu@cn.abb.com) | **Real2Sim 场景构建**、**Port–Mate** 环境推理与具身机器人产研技术合作 | [`#contact/work ↗`](https://portfolio-rouge-three-eznvbawdug.vercel.app/#contact/work) |
-| **个人与开源长效邮箱** *(Gmail)* | [`alex20160117@gmail.com`](mailto:alex20160117@gmail.com) | 不受毕业或机构变动影响的长期个人收件箱、**GitHub 开源仓库协作**与日常联络 | [`#contact/personal ↗`](https://portfolio-rouge-three-eznvbawdug.vercel.app/#contact/personal) |
