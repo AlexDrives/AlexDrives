@@ -8,8 +8,13 @@
 
 <p align="center">
   <a href="https://portfolio-rouge-three-eznvbawdug.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-junhao.liu-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:whichAlex@sjtu.edu.cn"><img src="https://img.shields.io/badge/Email-whichAlex%40sjtu.edu.cn-2B2B2B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://portfolio-rouge-three-eznvbawdug.vercel.app/Junhao_Liu_CV.pdf"><img src="https://img.shields.io/badge/CV-PDF-444444?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV PDF" /></a>
+  <a href="https://portfolio-rouge-three-eznvbawdug.vercel.app/Junhao_Liu_CV.pdf"><img src="https://img.shields.io/badge/CV-PDF-333333?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV PDF" /></a>
+  <a href="https://portfolio-rouge-three-eznvbawdug.vercel.app/#contact"><img src="https://img.shields.io/badge/Email_Routing-3_Inboxes-1F2937?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Routing" /></a>
+</p>
+<p align="center">
+  <a href="mailto:whichAlex@sjtu.edu.cn"><code>Academic · whichAlex@sjtu.edu.cn</code></a> ·
+  <a href="mailto:junhao.liu@cn.abb.com"><code>ABB R&amp;D · junhao.liu@cn.abb.com</code></a> ·
+  <a href="mailto:alex20160117@gmail.com"><code>Personal · alex20160117@gmail.com</code></a>
 </p>
 
 ---
@@ -88,3 +93,13 @@ Band guitarist with live stage experience — drawn to Texas blues phrasing and 
 ## 🚗 Why `AlexDrives` · Sci-Fi & Imperfect Information
 
 Grew up buying car magazines from neighborhood newsstands and memorizing drivetrain specs — a lifelong fascination with mechanical machines that eventually steered from engines and autonomous driving into embodied robots. Off the lab bench: Philip K. Dick & classic sci-fi cinema (*Blade Runner*, *2001: A Space Odyssey*) and decision-making under imperfect information (Texas Hold'em CFR solvers, FromSoftware worlds, *Civilization*).
+
+---
+
+## 📫 Contact & Email Routing
+
+| Channel | Email | When to Use | Portfolio Route |
+| --- | --- | --- | --- |
+| **Academic & Primary** *(SJTU)* | [`whichAlex@sjtu.edu.cn`](mailto:whichAlex@sjtu.edu.cn) | **2027 Fall PhD / graduate admissions**, faculty outreach & academic research discussions | [`#contact/academic ↗`](https://portfolio-rouge-three-eznvbawdug.vercel.app/#contact/academic) |
+| **R&D Work** *(ABB Robotics)* | [`junhao.liu@cn.abb.com`](mailto:junhao.liu@cn.abb.com) | **Real2Sim pipelines**, **Port–Mate** environment reasoning & industrial robotics R&D collaboration | [`#contact/work ↗`](https://portfolio-rouge-three-eznvbawdug.vercel.app/#contact/work) |
+| **Personal & Open-Source** *(Gmail)* | [`alex20160117@gmail.com`](mailto:alex20160117@gmail.com) | Long-term personal inbox (persists beyond graduation), **GitHub open-source** issues & general correspondence | [`#contact/personal ↗`](https://portfolio-rouge-three-eznvbawdug.vercel.app/#contact/personal) |
