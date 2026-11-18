@@ -75,16 +75,16 @@
 
 ---
 
-## 🎸 Guitar & Sound
+## 🎸 Music & Guitar
 
-Band guitarist with live stage experience — drawn to Texas blues phrasing and 70s progressive rock architecture, especially **Stevie Ray Vaughan**, **Pink Floyd** (*The Dark Side of the Moon*), and **King Crimson**.
+Play electric guitar in my spare time, and listen to a lot of blues and progressive rock — especially **Stevie Ray Vaughan**, **Pink Floyd**, and **King Crimson**.
 
 ![Electric Guitar](https://img.shields.io/badge/Electric_Guitar-18181B?style=for-the-badge&logoColor=white)
-![Blues Rock](https://img.shields.io/badge/Blues_Rock_%C2%B7_SRV-92400E?style=for-the-badge&logoColor=white)
-![Progressive Rock](https://img.shields.io/badge/Prog_Rock_%C2%B7_Pink_Floyd_%2F_King_Crimson-581C87?style=for-the-badge&logoColor=white)
+![SRV](https://img.shields.io/badge/Stevie_Ray_Vaughan-92400E?style=for-the-badge&logoColor=white)
+![Pink Floyd & King Crimson](https://img.shields.io/badge/Pink_Floyd_%C2%B7_King_Crimson-581C87?style=for-the-badge&logoColor=white)
 
 ---
 
-## 🚗 Why `AlexDrives` · Sci-Fi & Imperfect Information
+## 🚗 Cars, Sci-Fi & Games
 
-Grew up buying car magazines from neighborhood newsstands and memorizing drivetrain specs — a lifelong fascination with mechanical machines that eventually steered from engines and autonomous driving into embodied robots. Off the lab bench: Philip K. Dick & classic sci-fi cinema (*Blade Runner*, *2001: A Space Odyssey*) and decision-making under imperfect information (Texas Hold'em CFR solvers, FromSoftware worlds, *Civilization*).
+Into cars since childhood (where the handle `AlexDrives` comes from). Outside work, I enjoy sci-fi books and films (*Do Androids Dream of Electric Sheep?*, *Blade Runner*, *2001: A Space Odyssey*) and games like *Dark Souls*, *Civilization*, and Texas Hold'em.

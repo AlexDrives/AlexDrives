@@ -75,16 +75,16 @@
 
 ---
 
-## 🎸 吉他与摇滚
+## 🎸 音乐与吉他
 
-乐队吉他手，有过现场舞台演出经历——偏爱德州布鲁斯的颗粒感与七十年代前卫摇滚的结构张力，最常听 **Stevie Ray Vaughan**、**Pink Floyd**（*The Dark Side of the Moon*）与 **King Crimson**。
+平时喜欢弹电吉他，常听布鲁斯和前卫摇滚，尤其喜欢 **Stevie Ray Vaughan**、**Pink Floyd** 和 **King Crimson**。
 
 ![Electric Guitar](https://img.shields.io/badge/Electric_Guitar-18181B?style=for-the-badge&logoColor=white)
-![Blues Rock](https://img.shields.io/badge/Blues_Rock_%C2%B7_SRV-92400E?style=for-the-badge&logoColor=white)
-![Progressive Rock](https://img.shields.io/badge/Prog_Rock_%C2%B7_Pink_Floyd_%2F_King_Crimson-581C87?style=for-the-badge&logoColor=white)
+![SRV](https://img.shields.io/badge/Stevie_Ray_Vaughan-92400E?style=for-the-badge&logoColor=white)
+![Pink Floyd & King Crimson](https://img.shields.io/badge/Pink_Floyd_%C2%B7_King_Crimson-581C87?style=for-the-badge&logoColor=white)
 
 ---
 
-## 🚗 为什么叫 `AlexDrives` · 科幻与不完全信息博弈
+## 🚗 车、科幻与游戏
 
-小时候总守着街角红色报刊亭买汽车杂志、背各家发动机与变速箱参数；那份对机械与驾驶的着迷，后来一路从汽车与自动驾驶把我带进了具身机器人。实验室之外，偏爱菲利普·迪克与经典科幻电影（《银翼杀手》《2001 太空漫游》），以及一切关于试错与不完全信息决策的游戏（德州扑克 CFR Solver、魂系世界、《文明》）。
+从小喜欢车，这也是 `AlexDrives` 这个名字的由来。闲暇时喜欢看菲利普·迪克的小说和老科幻片（《银翼杀手》《2001 太空漫游》），常玩魂系游戏、《文明》和德州扑克。
