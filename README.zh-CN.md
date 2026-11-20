@@ -17,7 +17,7 @@
 ### 关于我
 
 🎓 **上海交通大学 · 智能感知工程专业** 本科在读（自动化与感知学院，2027 届 · 大三专业核心均分 `89.5/100`，《智能感知系统设计与实践》`100/100` 全班 `1/38`）  
-🔬 **ABB Robotics · 环境推理研发实习生** — 构建 **Port-Ready Real2Sim** 资产管线（单目照片 + 自然语言 → `Blender` 参数化建模与原生端口同参同源生成 → `OmniGibson` OpenUSD）、受机械 CAD 装配启发的 **Port–Mate** $SE(3)$ 场景表征，以及几何求解器与物理 **Critic** 闭环的 `LangGraph` 仿真智能体  
+🔬 **ABB Robotics · 环境推理研发实习生** — 构建 **Real2Sim** 资产与场景生成流程、受 CAD 装配启发的 **Port–Mate** 场景表征，以及融合几何求解与 **Critic** 物理反馈的 **LLM/VLM** 智能体*（持续研发与论文冲刺中）*  
 🤖 曾任 **协创数据技术（ShareTronic） · 机器人算法实习生** — 负责 `NVIDIA Isaac Lab / Sim` 中 **宇树 Go2** 四足机器人强化学习视觉导航（`NavRL`）、`ROS2` 实机部署排障与 `VGGT` 第一视角人形导航数据预研  
 🧭 **核心关注**：如何将**显式三维几何/物理约束**与**可扩展机器人学习**连接起来——打通可验证的 Real2Sim 仿真数据引擎与真机 **VLA 后训练及 System-2/1 协同执行**  
 📬 正在寻找 **2027 秋季博士（PhD）/ 研究型深造与科研合作机会**（具身智能、机器人学习、Real2Sim2Real、世界模型）  
@@ -27,7 +27,7 @@
 ## 代表性研究与系统实践
 
 - 🏆 **[蚂蚁灵波具身大模型挑战赛（`LingBot-VLA 2.0 6B`）](https://github.com/AlexDrives/lingbot-competiton-fbfyfbf)** — 发起组建五人本科生团队 `fbfyfbf`。初赛在 RoboTwin 2.0 五十项双臂仿真任务中位列 **第 6 / 1,855 队**（官方复测 Clean `82.22%` / Randomized `57.26%`；定位统计量分位数偏移缺陷，设计保相傅里叶频域增强与严格配对符号检验评测）。**48 小时松灵 Cobot Magic 双臂真机决赛获优胜奖**：主导现场遥操与 `200 Hz` 零跳变 DAgger 接管数采管线（`646` 条高质量示范），参与不停机流式训练与 16 GB 显卡上的 **Training-time / 异步实时动作分块（RTC）** 推理，以及基于 DeepSeek 的 **System-2 长程清扫子任务调度 Harness** + `20.5 万`参数腕部抓取检测 CNN（留出集准确率 `99.8%`）与第三轮数据漂移复盘。
-- 🧩 **[Port-Ready Real2Sim 与 Port–Mate 场景终态推理（`AssemWorld`）](https://portfolio-rouge-three-eznvbawdug.vercel.app/#experience/abb)** — 打通端到端 **Port-Ready Real2Sim** 管线（单目参考照片 + 自然语言 → VLM 与 `Blender` `port_kit` 同参同源生成几何与原生端口 + 四视图视觉自检 → 端口引导解析凸分解防止盲孔/容腔被封堵 → 视觉/碰撞双几何校验导出 `OmniGibson` OpenUSD），并与 `Port–Mate` $SE(3)$ 装配约束求解（$T_i = T_b L_b M(\theta) L_i^{-1}$，$S_{\text{op}} \xrightarrow{\text{OmniGibson}} S_{\text{evo}}$、`89/89` 物理验收）及独立几何 Oracle 支撑面发现（精度 `0.979`）闭环打通。
+- 🧩 **[环境推理与 Real2Sim 场景构建 @ ABB Robotics](https://portfolio-rouge-three-eznvbawdug.vercel.app/#experience/abb)** *（持续研发与论文冲刺阶段，内部技术细节暂不公开）* — 研发自动化 **Real2Sim** 资产与场景生成流程、受机械 CAD 装配启发的 **Port–Mate** 功能场景表征，以及结合几何求解与物理 **Critic** 迭代反馈的 **LLM/VLM** 智能体，并探索 Agent 辅助的仿真测试框架（Simulation Harness）。
 - 🐕 **[四足强化学习视觉导航与 Sim2Real 排障 @ ShareTronic](https://portfolio-rouge-three-eznvbawdug.vercel.app/#experience/sharetronic)** — 将无人机 `NavRL` 框架跨本体迁移适配至 `NVIDIA Isaac Lab` 中的 12 自由度 **Unitree Go2** 四足机器狗，通过步态奖励塑形与延迟/噪声域随机化抑制侧身行走；在机载 `ROS2` 外场联调中定位移动目标局部占据栅格更新延迟根因，并预研基于 `VGGT + DINO` 的第一视角人类行走三维轨迹提取。
 - 🧬 **[RNA-GCP-VQVAE](https://github.com/AlexDrives/RNA-GCP-VQVAE)** — 基于 $SE(3)$ 等变几何深度学习将蛋白质 `GCP-VQVAE` 扩展至 **RNA 三维主链离散表征与重建**：搭建 `RNAsolo / cd-hit-est (c80) → HDF5` 同源划分管线、6 二面角与局部刚体特征，以及轨迹级 **FAPE** 监督的 **AlphaFold2 风格 IPA 结构解码器**（坐标 MAE `1.08 Å` · TM-score `0.79`）。
 - 🎲 **[机械臂自主骰子感知与高速堆叠系统](https://github.com/AlexDrives/Dice-detection-and-auto-stacking-with-OpenMV-and-OpenCV)** — 独立打通镜头畸变校正、单帧 27 枚高密骰子分割识别、450+ 点对单应性+二次残差误差补偿（平均误差 `0.740 mm`）与四自由度吸盘臂闭环控制（**26 秒连叠 6 枚 · 全班第 1 / 38**） · ♠️ **[Kuhn Poker：自博弈 RL vs. CFR](https://github.com/AlexDrives/kuhn_poker-exp)** — 在 PyTorch 中诊断朴素自博弈 REINFORCE 的策略振荡机理，并与 OpenSpiel `CFR / CFR+` 的可剥削度收敛行为做定量对照。
