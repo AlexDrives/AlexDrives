@@ -76,13 +76,15 @@
 
 ---
 
-## 🎸 音乐与吉他
+## 🏀 篮球、硬件黑客松与吉他
 
-平时喜欢弹电吉他，常听布鲁斯和前卫摇滚，尤其喜欢 **Stevie Ray Vaughan**、**Pink Floyd** 和 **King Crimson**。
+- **硬件黑客松**：最近很上头在极限时间里把真机搭起来，正在筹备下一场硬件黑客松。
+- **篮球**：平时喜欢打球，**Cade Cunningham** 球迷。
+- **吉他与音乐**：平时弹电吉他，常听布鲁斯和前卫摇滚，尤其喜欢 **Stevie Ray Vaughan**、**Pink Floyd** 和 **King Crimson**。
 
-![Electric Guitar](https://img.shields.io/badge/Electric_Guitar-18181B?style=for-the-badge&logoColor=white)
-![SRV](https://img.shields.io/badge/Stevie_Ray_Vaughan-92400E?style=for-the-badge&logoColor=white)
-![Pink Floyd & King Crimson](https://img.shields.io/badge/Pink_Floyd_%C2%B7_King_Crimson-581C87?style=for-the-badge&logoColor=white)
+![Hardware Hackathons](https://img.shields.io/badge/Hardware_Hackathons-111827?style=for-the-badge&logoColor=white)
+![Cade Cunningham](https://img.shields.io/badge/Basketball_%C2%B7_Cade_Cunningham-1D4ED8?style=for-the-badge&logoColor=white)
+![Electric Guitar](https://img.shields.io/badge/Guitar_%C2%B7_SRV_%2F_Pink_Floyd_%2F_King_Crimson-92400E?style=for-the-badge&logoColor=white)
 
 ---
 
@@ -90,4 +92,15 @@
 
 从小喜欢车，这也是 `AlexDrives` 这个名字的由来。闲暇时喜欢看菲利普·迪克的小说和老科幻片（《银翼杀手》《2001 太空漫游》），常玩魂系游戏、《文明》和德州扑克。
 
-🎁 **彩蛋主页**：欢迎来逛我的交互式 ASCII & Three.js 彩蛋小站 —— **[literally-me](https://alexdrives.github.io/literally-me/)**（[源码仓库](https://github.com/AlexDrives/literally-me)），里面藏着我最爱的电影片段、三维 ASCII 模型与 RGB 隐藏彩蛋。
+<details>
+<summary>🕹️ <code>&lt;signal&gt;</code> · 隐藏彩蛋（点击展开）</summary>
+
+```text
+> SYS.UPDATING _
+> free the birds!!!  [R:3/3]  [G:3/3]  [B:3/3]
+> "tears in rain" — Detroit Pistons #2 · 48h real-robot bench · guitar on standby
+```
+
+欢迎来我的交互式 ASCII & Three.js 彩蛋小站 **[literally-me](https://alexdrives.github.io/literally-me/)**（[源码仓库](https://github.com/AlexDrives/literally-me)）—— 放飞小鸟、集齐页面里藏着的 RGB 锁，解锁 `<signal>`。
+
+</details>

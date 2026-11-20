@@ -76,13 +76,15 @@
 
 ---
 
-## 🎸 Music & Guitar
+## 🏀 Basketball, Hardware Hackathons & Music
 
-Play electric guitar in my spare time, and listen to a lot of blues and progressive rock — especially **Stevie Ray Vaughan**, **Pink Floyd**, and **King Crimson**.
+- **Hardware Hackathons**: Lately into building things under tight 48-hour clocks — currently prepping for an upcoming hardware hackathon.
+- **Basketball**: Hoop in my free time and big **Cade Cunningham** fan.
+- **Guitar**: Play electric guitar and listen to a lot of blues and progressive rock — especially **Stevie Ray Vaughan**, **Pink Floyd**, and **King Crimson**.
 
-![Electric Guitar](https://img.shields.io/badge/Electric_Guitar-18181B?style=for-the-badge&logoColor=white)
-![SRV](https://img.shields.io/badge/Stevie_Ray_Vaughan-92400E?style=for-the-badge&logoColor=white)
-![Pink Floyd & King Crimson](https://img.shields.io/badge/Pink_Floyd_%C2%B7_King_Crimson-581C87?style=for-the-badge&logoColor=white)
+![Hardware Hackathons](https://img.shields.io/badge/Hardware_Hackathons-111827?style=for-the-badge&logoColor=white)
+![Cade Cunningham](https://img.shields.io/badge/Basketball_%C2%B7_Cade_Cunningham-1D4ED8?style=for-the-badge&logoColor=white)
+![Electric Guitar](https://img.shields.io/badge/Guitar_%C2%B7_SRV_%2F_Pink_Floyd_%2F_King_Crimson-92400E?style=for-the-badge&logoColor=white)
 
 ---
 
@@ -90,4 +92,15 @@ Play electric guitar in my spare time, and listen to a lot of blues and progress
 
 Into cars since childhood (where the handle `AlexDrives` comes from). Outside work, I enjoy sci-fi books and films (*Do Androids Dream of Electric Sheep?*, *Blade Runner*, *2001: A Space Odyssey*) and games like *Dark Souls*, *Civilization*, and Texas Hold'em.
 
-🎁 **Easter-Egg Homepage**: Check out **[literally-me](https://alexdrives.github.io/literally-me/)** ([repository](https://github.com/AlexDrives/literally-me)) — an interactive ASCII & Three.js side-project playground featuring my favorite films, 3D ASCII models, and hidden RGB locks.
+<details>
+<summary>🕹️ <code>&lt;signal&gt;</code> · hidden easter egg (click to unlock)</summary>
+
+```text
+> SYS.UPDATING _
+> free the birds!!!  [R:3/3]  [G:3/3]  [B:3/3]
+> "tears in rain" — Detroit Pistons #2 · 48h real-robot bench · stratocaster on standby
+```
+
+Drop by my interactive ASCII & Three.js easter-egg playground: **[literally-me](https://alexdrives.github.io/literally-me/)** ([source repo](https://github.com/AlexDrives/literally-me)) — catch the birds, find the hidden RGB locks, and unlock `<signal>`.
+
+</details>
