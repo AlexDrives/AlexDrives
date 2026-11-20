@@ -3,7 +3,7 @@
 <h3 align="center">具身智能 · Real2Sim 与物理世界表征 · VLA · 机器人学习</h3>
 
 <p align="center">
-  <a href="README.md">English</a> | <strong>简体中文</strong>
+  <a href="README.md">English</a> | <strong>简体中文</strong> | <a href="README.zh-TW.md">繁體中文</a>
 </p>
 
 <p align="center">

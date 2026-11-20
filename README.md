@@ -3,7 +3,7 @@
 <h3 align="center">Embodied AI · Real2Sim & World Representations · VLA · Robot Learning</h3>
 
 <p align="center">
-  <strong>English</strong> | <a href="README.zh-CN.md">简体中文</a>
+  <strong>English</strong> | <a href="README.zh-CN.md">简体中文</a> | <a href="README.zh-TW.md">繁體中文</a>
 </p>
 
 <p align="center">
