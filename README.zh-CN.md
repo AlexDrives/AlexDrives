@@ -10,6 +10,7 @@
   <a href="https://portfolio-rouge-three-eznvbawdug.vercel.app/"><img src="https://img.shields.io/badge/个人主页-junhao.liu-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="个人主页" /></a>
   <a href="mailto:whichAlex@sjtu.edu.cn"><img src="https://img.shields.io/badge/邮箱-whichAlex%40sjtu.edu.cn-2B2B2B?style=for-the-badge&logo=gmail&logoColor=white" alt="邮箱" /></a>
   <a href="https://portfolio-rouge-three-eznvbawdug.vercel.app/Junhao_Liu_CV_ZH.pdf"><img src="https://img.shields.io/badge/中文简历-PDF-444444?style=for-the-badge&logo=readthedocs&logoColor=white" alt="中文简历 PDF" /></a>
+  <a href="https://alexdrives.github.io/literally-me/"><img src="https://img.shields.io/badge/彩蛋主页-literally--me-0E7490?style=for-the-badge&logo=githubpages&logoColor=white" alt="literally-me 彩蛋主页" /></a>
 </p>
 
 ---
@@ -88,3 +89,5 @@
 ## 🚗 车、科幻与游戏
 
 从小喜欢车，这也是 `AlexDrives` 这个名字的由来。闲暇时喜欢看菲利普·迪克的小说和老科幻片（《银翼杀手》《2001 太空漫游》），常玩魂系游戏、《文明》和德州扑克。
+
+🎁 **彩蛋主页**：欢迎来逛我的交互式 ASCII & Three.js 彩蛋小站 —— **[literally-me](https://alexdrives.github.io/literally-me/)**（[源码仓库](https://github.com/AlexDrives/literally-me)），里面藏着我最爱的电影片段、三维 ASCII 模型与 RGB 隐藏彩蛋。

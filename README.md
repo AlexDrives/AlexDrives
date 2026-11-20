@@ -10,6 +10,7 @@
   <a href="https://portfolio-rouge-three-eznvbawdug.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-junhao.liu-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:whichAlex@sjtu.edu.cn"><img src="https://img.shields.io/badge/Email-whichAlex%40sjtu.edu.cn-2B2B2B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://portfolio-rouge-three-eznvbawdug.vercel.app/Junhao_Liu_CV.pdf"><img src="https://img.shields.io/badge/CV-PDF-444444?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV PDF" /></a>
+  <a href="https://alexdrives.github.io/literally-me/"><img src="https://img.shields.io/badge/Easter_Egg-literally--me-0E7490?style=for-the-badge&logo=githubpages&logoColor=white" alt="literally-me Easter Egg" /></a>
 </p>
 
 ---
@@ -88,3 +89,5 @@ Play electric guitar in my spare time, and listen to a lot of blues and progress
 ## 🚗 Cars, Sci-Fi & Games
 
 Into cars since childhood (where the handle `AlexDrives` comes from). Outside work, I enjoy sci-fi books and films (*Do Androids Dream of Electric Sheep?*, *Blade Runner*, *2001: A Space Odyssey*) and games like *Dark Souls*, *Civilization*, and Texas Hold'em.
+
+🎁 **Easter-Egg Homepage**: Check out **[literally-me](https://alexdrives.github.io/literally-me/)** ([repository](https://github.com/AlexDrives/literally-me)) — an interactive ASCII & Three.js side-project playground featuring my favorite films, 3D ASCII models, and hidden RGB locks.
